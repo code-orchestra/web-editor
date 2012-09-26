@@ -75,7 +75,7 @@
                 </selectionStack>
                 <folded />
               </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
+              <inspectorMemento viewPositionX="0" viewPositionY="36">
                 <selectionStack />
                 <folded />
               </inspectorMemento>
@@ -92,16 +92,16 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="43" />
+                    <property name="caretX" value="258" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                      <node model="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" id="5258307011057039400" />
+                    <cellInfo cellId="Constant_tg7vfz_a2a" cellNumber="0" isInList="false">
+                      <node model="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" id="5258307011057039398" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <folded />
               </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
+              <inspectorMemento viewPositionX="0" viewPositionY="36">
                 <selectionStack />
                 <folded />
               </inspectorMemento>
@@ -577,6 +577,44 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEditor" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEditor" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeorchestra.mps.smodel" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEditor" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeorchestra.mps.nodeEditor.cells" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Favorites" />
@@ -614,7 +652,7 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="22" width="1680" height="1024" extended-state="6" />
+    <frame x="116" y="24" width="1297" height="918" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20708154" sideWeight="0.9317633" order="7" side_tool="false" content_ui="tabs" />
@@ -629,7 +667,7 @@
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14794686" sideWeight="0.2878625" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19245876" sideWeight="0.28848484" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -646,7 +684,7 @@
       <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="AS ToDo" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14794686" sideWeight="0.70354456" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19245876" sideWeight="0.70181817" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -727,48 +765,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="mps://codeorchestra.mps.nodeEditor.cells/EditorCell_Collection">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="248" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" id="2835155408661650399" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://codeorchestra.mps.smodel/SNode">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="80">
+          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="146" />
+                <property name="caretX" value="258" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                  <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5831898788384756142" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5831898788384756171" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded>
               <foldedElement cellId="Collection_c80bcj_a" cellNumber="0" isInList="false">
-                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801893" />
+                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801932" />
               </foldedElement>
               <foldedElement cellId="Collection_c80bcj_a" cellNumber="0" isInList="false">
-                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801932" />
+                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801893" />
               </foldedElement>
             </folded>
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="80">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="146" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                  <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5831898788384756142" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded>
-              <foldedElement cellId="Collection_c80bcj_a" cellNumber="0" isInList="false">
-                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801893" />
-              </foldedElement>
-              <foldedElement cellId="Collection_c80bcj_a" cellNumber="0" isInList="false">
-                <node model="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)" id="5258307011056801932" />
-              </foldedElement>
-            </folded>
+          <inspectorMemento viewPositionX="0" viewPositionY="36">
+            <selectionStack />
+            <folded />
           </inspectorMemento>
         </state>
       </provider>
@@ -804,16 +849,16 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="43" />
+                <property name="caretX" value="258" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                  <node model="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" id="5258307011057039400" />
+                <cellInfo cellId="Constant_tg7vfz_a2a" cellNumber="0" isInList="false">
+                  <node model="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" id="5258307011057039398" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
+          <inspectorMemento viewPositionX="0" viewPositionY="36">
             <selectionStack />
             <folded />
           </inspectorMemento>
