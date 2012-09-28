@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:c8abcf2e-8aef-4988-83dd-185adfca17b4(codeorchestra.mps.nodeEditor.style)">
   <persistence version="7" />
-  <language namespace="com.realaxy.actionScript" />
-  <language namespace="com.realaxy.actionScript.logging" />
-  <language namespace="com.realaxy.projectAssets" />
-  <language namespace="html5.astojs" />
+  <language namespace="2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)" />
+  <language namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
+  <language namespace="f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(com.realaxy.projectAssets)" />
+  <language namespace="68b7b8e2-9291-492e-8a01-35739a859ad4(html5.astojs)" />
   <language namespace="b7189d41-b93c-4ffa-ab10-12b334c0bb92(com.realaxy.actionScript.enums)" />
-  <language-engaged-on-generation namespace="com.realaxy.actionScript.logging" />
+  <language-engaged-on-generation namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
   <import index="ijiw" modelUID="r:aa886977-d2e2-4641-9dd7-69c524a9d8ab(html5.astojs.util)" version="-1" />
   <import index="auql" modelUID="r:16e9672c-c358-4079-ad6b-3e44cb51270c(js)" version="-1" />
   <import index="ufr" modelUID="r:02b7f784-7f9a-4338-bdb7-dd74898fdddf()" version="-1" />
@@ -38,7 +38,7 @@
         <node role="statement" roleId="3vt2.1237648447990" type="3vt2.Statement" typeId="3vt2.1237648130608" id="2835155408661694326" />
       </node>
       <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="2835155408661694327" />
-      <node role="returnType" roleId="3vt2.3618339097803723484" type="3vt2.VoidType" typeId="3vt2.1237649329996" id="2835155408661694328" />
+      <node role="returnType" roleId="3vt2.3618339097803723484" type="3vt2.WildCardType" typeId="3vt2.1237727522379" id="2835155408661902875" />
       <node role="parameter" roleId="3vt2.3618339097803723485" type="3vt2.VarargsParameter" typeId="3vt2.1242948893060" id="2835155408661694347">
         <property name="name" nameId="tpck.1169194664001" value="args" />
         <node role="type" roleId="3vt2.1238708772985" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="2835155408661694348" />
@@ -72,6 +72,24 @@
     </node>
   </root>
   <root id="2835155408661694390">
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="2835155408661902887">
+      <property name="name" nameId="tpck.1169194664001" value="DRAW_BRACKETS" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="2835155408661902888">
+      <property name="name" nameId="tpck.1169194664001" value="BACKGROUND_COLOR" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="2835155408661902889">
+      <property name="name" nameId="tpck.1169194664001" value="BRACKETS_COLOR" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="2835155408661903014">
+      <property name="name" nameId="tpck.1169194664001" value="SELECTABLE" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="2835155408661903164">
+      <property name="name" nameId="tpck.1169194664001" value="NAVIGATABLE_REFERENCE" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="8196316085567813880">
+      <property name="name" nameId="tpck.1169194664001" value="FOCUS_POLICY" />
+    </node>
     <node role="outOfPackageButton" roleId="3vt2.5096339543744144377" type="3vt2.OutOfPackageAddButton" typeId="3vt2.5096339543744144378" id="2835155408661694391" />
     <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="2835155408661694392" />
     <node role="superclass" roleId="3vt2.1239652892079" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="2835155408661694393">
