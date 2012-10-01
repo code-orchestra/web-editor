@@ -93,6 +93,14 @@
     <node role="implementedInterface" roleId="3vt2.1239652910735" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="3366051083448624019">
       <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
     </node>
+    <node role="method" roleId="3vt2.1238599729748" type="3vt2.InstanceMethodDeclaration" typeId="3vt2.1237644241500" id="3366051083448626541">
+      <property name="name" nameId="tpck.1169194664001" value="flushEvents" />
+      <node role="body" roleId="3vt2.3618339097803723486" type="3vt2.StatementList" typeId="3vt2.1237648173643" id="3366051083448626542">
+        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.Statement" typeId="3vt2.1237648130608" id="3366051083448626543" />
+      </node>
+      <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="3366051083448626544" />
+      <node role="returnType" roleId="3vt2.3618339097803723484" type="3vt2.VoidType" typeId="3vt2.1237649329996" id="3366051083448626545" />
+    </node>
   </root>
 </model>
 

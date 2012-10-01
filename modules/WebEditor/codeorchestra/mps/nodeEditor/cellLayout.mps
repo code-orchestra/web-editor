@@ -37,6 +37,10 @@
       <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />
       <property name="name" nameId="tpck.1169194664001" value="AbstractCellLayout" />
     </node>
+    <node type="3vt2.ClassConcept" typeId="3vt2.1237644023270" id="3366051083448627088">
+      <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />
+      <property name="name" nameId="tpck.1169194664001" value="CellLayout_Indent" />
+    </node>
   </roots>
   <root id="3366051083448608822">
     <node role="method" roleId="3vt2.1238599729748" type="3vt2.InstanceMethodDeclaration" typeId="3vt2.1237644241500" id="3366051083448608827">
@@ -64,8 +68,8 @@
       <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="3366051083448608839" />
       <node role="parameter" roleId="3vt2.3618339097803723485" type="3vt2.ParameterDeclaration" typeId="3vt2.1238615317973" id="3366051083448608840">
         <property name="name" nameId="tpck.1169194664001" value="editorCells" />
-        <node role="type" roleId="3vt2.1238708772985" type="3vt2.ClassifierType" typeId="3vt2.1237649696613" id="3366051083448608842">
-          <link role="reference" roleId="3vt2.890882911603824802" targetNodeId="1k6w.~Array" resolveInfo="Array" />
+        <node role="type" roleId="3vt2.1238708772985" type="3vt2.ClassifierType" typeId="3vt2.1237649696613" id="3366051083448627132">
+          <link role="reference" roleId="3vt2.890882911603824802" targetNodeId="xvpb.2835155408661650399" resolveInfo="EditorCell_Collection" />
         </node>
       </node>
     </node>
@@ -293,6 +297,22 @@
         <link role="reference" roleId="3vt2.890882911603824802" targetNodeId="1k6w.~Boolean" resolveInfo="Boolean" />
       </node>
       <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="3366051083448624900" />
+    </node>
+  </root>
+  <root id="3366051083448627088">
+    <node role="outOfPackageButton" roleId="3vt2.5096339543744144377" type="3vt2.OutOfPackageAddButton" typeId="3vt2.5096339543744144378" id="3366051083448627089" />
+    <node role="constructor" roleId="3vt2.1239652818186" type="3vt2.ConstructorDeclaration" typeId="3vt2.1237644154612" id="3366051083448627090">
+      <node role="body" roleId="3vt2.3618339097803723486" type="3vt2.StatementList" typeId="3vt2.1237648173643" id="3366051083448627091">
+        <node role="statement" roleId="3vt2.1237648447990" type="3vt2.Statement" typeId="3vt2.1237648130608" id="3366051083448627092" />
+      </node>
+      <node role="returnType" roleId="3vt2.3618339097803723484" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="3366051083448627096" />
+    </node>
+    <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="3366051083448627093" />
+    <node role="superclass" roleId="3vt2.1239652892079" type="3vt2.ClassifierType" typeId="3vt2.1237649696613" id="3366051083448627097">
+      <link role="reference" roleId="3vt2.890882911603824802" targetNodeId="3366051083448624840" resolveInfo="AbstractCellLayout" />
+    </node>
+    <node role="implementedInterface" roleId="3vt2.1239652910735" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="3366051083448627095">
+      <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
     </node>
   </root>
 </model>
