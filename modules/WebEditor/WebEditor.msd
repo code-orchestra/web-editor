@@ -17,6 +17,7 @@
     <dependency reexport="false">4254d1c2-5edf-418c-b55f-8fbd21d4cbb5(rpc_swc)</dependency>
     <dependency reexport="false">1b4a95ec-3105-427f-a610-5a39bd1ed18b(spark_swc)</dependency>
     <dependency reexport="false">b7189d41-b93c-4ffa-ab10-12b334c0bb92(com.realaxy.actionScript.enums)</dependency>
+    <dependency reexport="false">bc24470f-6fe0-49d1-8324-930227a4f989(com.realaxy.actionScript.collections)</dependency>
   </dependencies>
   <usedLanguages>
     <usedLanguage>2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)</usedLanguage>
@@ -25,6 +26,7 @@
     <usedLanguage>68b7b8e2-9291-492e-8a01-35739a859ad4(html5.astojs)</usedLanguage>
     <usedLanguage>b7189d41-b93c-4ffa-ab10-12b334c0bb92(com.realaxy.actionScript.enums)</usedLanguage>
     <usedLanguage>cbd2a870-1b01-42c0-9278-dffe24cdc713(com.realaxy.actionScript.overloadedMethods)</usedLanguage>
+    <usedLanguage>bc24470f-6fe0-49d1-8324-930227a4f989(com.realaxy.actionScript.collections)</usedLanguage>
   </usedLanguages>
 </solution>
 
