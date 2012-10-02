@@ -38,6 +38,10 @@
       <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />
       <property name="name" nameId="tpck.1169194664001" value="EditorContext" />
     </node>
+    <node type="ug4l.EnumClass" typeId="ug4l.2136186081531835963" id="5265441999435198646">
+      <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />
+      <property name="name" nameId="tpck.1169194664001" value="CaretPosition" />
+    </node>
   </roots>
   <root id="2835155408661881096">
     <node role="outOfPackageButton" roleId="3vt2.5096339543744144377" type="3vt2.OutOfPackageAddButton" typeId="3vt2.5096339543744144378" id="2835155408661881097" />
@@ -63,6 +67,9 @@
     </node>
     <node role="implementedInterface" roleId="3vt2.1239652910735" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="2835155408661881118">
       <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="5265441999435201371">
+      <property name="name" nameId="tpck.1169194664001" value="DELETE" />
     </node>
   </root>
   <root id="2835155408661893582">
@@ -100,6 +107,22 @@
       </node>
       <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="3366051083448626544" />
       <node role="returnType" roleId="3vt2.3618339097803723484" type="3vt2.VoidType" typeId="3vt2.1237649329996" id="3366051083448626545" />
+    </node>
+  </root>
+  <root id="5265441999435198646">
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="5265441999435198651">
+      <property name="name" nameId="tpck.1169194664001" value="FIRST" />
+    </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="5265441999435198652">
+      <property name="name" nameId="tpck.1169194664001" value="LAST" />
+    </node>
+    <node role="outOfPackageButton" roleId="3vt2.5096339543744144377" type="3vt2.OutOfPackageAddButton" typeId="3vt2.5096339543744144378" id="5265441999435198647" />
+    <node role="visibility" roleId="3vt2.1238599591623" type="3vt2.PublicVisibility" typeId="3vt2.1240402865704" id="5265441999435198648" />
+    <node role="superclass" roleId="3vt2.1239652892079" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="5265441999435198649">
+      <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
+    </node>
+    <node role="implementedInterface" roleId="3vt2.1239652910735" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="5265441999435198650">
+      <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
     </node>
   </root>
 </model>
