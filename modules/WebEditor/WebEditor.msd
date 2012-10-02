@@ -27,6 +27,7 @@
     <usedLanguage>b7189d41-b93c-4ffa-ab10-12b334c0bb92(com.realaxy.actionScript.enums)</usedLanguage>
     <usedLanguage>cbd2a870-1b01-42c0-9278-dffe24cdc713(com.realaxy.actionScript.overloadedMethods)</usedLanguage>
     <usedLanguage>bc24470f-6fe0-49d1-8324-930227a4f989(com.realaxy.actionScript.collections)</usedLanguage>
+    <usedLanguage>25fc127a-f19c-4cfb-866c-0e5ff9049bb2(com.realaxy.actionScript.assertions)</usedLanguage>
   </usedLanguages>
 </solution>
 
