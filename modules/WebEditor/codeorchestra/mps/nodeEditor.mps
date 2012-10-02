@@ -68,6 +68,9 @@
     <node role="implementedInterface" roleId="3vt2.1239652910735" type="3vt2.DynamicClassifierType" typeId="3vt2.7565340792440686856" id="2835155408661881118">
       <property name="isAllowEmpty" nameId="3vt2.169389546812107517" value="true" />
     </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="5265441999435201371">
+      <property name="name" nameId="tpck.1169194664001" value="DELETE" />
+    </node>
   </root>
   <root id="2835155408661893582">
     <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="8196316085567813878">
