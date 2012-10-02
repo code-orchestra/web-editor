@@ -173,6 +173,9 @@
     <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="5265441999435201400">
       <property name="name" nameId="tpck.1169194664001" value="AUTO_DELETABLE" />
     </node>
+    <node role="enumConstant" roleId="ug4l.2136186081531944889" type="ug4l.EnumConstantDeclaration" typeId="ug4l.2136186081531858773" id="4956868331538457619">
+      <property name="name" nameId="tpck.1169194664001" value="UNDERLINED" />
+    </node>
   </root>
   <root id="5265441999435200434">
     <node role="field" roleId="3vt2.1239651982107" type="3vt2.FieldDeclaration" typeId="3vt2.1239652032087" id="5265441999435200456">
