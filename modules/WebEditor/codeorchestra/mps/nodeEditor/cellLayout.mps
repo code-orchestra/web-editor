@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:1508206e-f82b-4917-8d68-190d4224f9f4(codeorchestra.mps.nodeEditor.cellLayout)">
   <persistence version="7" />
-  <language namespace="com.realaxy.actionScript" />
-  <language namespace="com.realaxy.actionScript.logging" />
-  <language namespace="com.realaxy.projectAssets" />
+  <language namespace="codeOrchestra.actionScript" />
+  <language namespace="codeOrchestra.actionScript.logging" />
+  <language namespace="codeOrchestra.projectAssets" />
   <language namespace="html5.astojs" />
-  <language namespace="bc24470f-6fe0-49d1-8324-930227a4f989(com.realaxy.actionScript.collections)" />
-  <language-engaged-on-generation namespace="com.realaxy.actionScript.logging" />
+  <language namespace="bc24470f-6fe0-49d1-8324-930227a4f989(codeOrchestra.actionScript.collections)" />
+  <language-engaged-on-generation namespace="codeOrchestra.actionScript.logging" />
   <import index="ijiw" modelUID="r:aa886977-d2e2-4641-9dd7-69c524a9d8ab(html5.astojs.util)" version="-1" />
   <import index="ufr" modelUID="r:02b7f784-7f9a-4338-bdb7-dd74898fdddf()" version="-1" />
   <import index="8hp0" modelUID="r:f504d7a2-d1ce-473b-b525-bb1f98e78e12(joo)" version="-1" />
-  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(com.realaxy.actionScript.util)" version="-1" />
+  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(codeOrchestra.actionScript.util)" version="-1" />
   <import index="auql" modelUID="r:16e9672c-c358-4079-ad6b-3e44cb51270c(js)" version="-1" />
   <import index="1k6w" modelUID="f:swc_stub#(@swc_stub)" version="-1" />
   <import index="jivu" modelUID="f:swc_stub#flash.display(flash.display@swc_stub)" version="-1" />
@@ -19,11 +19,11 @@
   <import index="psew" modelUID="f:asset_stub##assets#-WebEditor_projectAssets(#assets#-WebEditor_projectAssets@asset_stub)" version="-1" />
   <import index="xvpb" modelUID="r:13c38277-4d19-4c97-a32f-1478bb33fa27(codeorchestra.mps.nodeEditor.cells)" version="-1" />
   <import index="xog2" modelUID="r:a9e69875-7d9c-49a8-b60e-2108985b2fd7(codeorchestra.mps.nodeEditor.text)" version="-1" />
-  <import index="j4ot" modelUID="r:2ac04c12-1d74-46c7-8d92-94f05d20fa58(com.realaxy.actionScript.collections.util)" version="0" />
+  <import index="j4ot" modelUID="r:2ac04c12-1d74-46c7-8d92-94f05d20fa58(codeOrchestra.actionScript.collections.util)" version="0" />
   <import index="6298" modelUID="f:swc_stub#flash.geom(flash.geom@swc_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(com.realaxy.actionScript.structure)" version="81" implicit="yes" />
-  <import index="m5sl" modelUID="r:93390832-59c0-4190-943c-43f11a357c86(com.realaxy.actionScript.collections.structure)" version="-1" implicit="yes" />
+  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(codeOrchestra.actionScript.structure)" version="81" implicit="yes" />
+  <import index="m5sl" modelUID="r:93390832-59c0-4190-943c-43f11a357c86(codeOrchestra.actionScript.collections.structure)" version="-1" implicit="yes" />
   <roots>
     <node type="3vt2.Interface" typeId="3vt2.1237644041987" id="3366051083448608822">
       <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />

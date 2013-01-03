@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model modelUID="r:a15b7f46-229e-4063-8c2a-8386df51f1b6(codeorchestra.mps.smodel)">
   <persistence version="7" />
-  <language namespace="2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(com.realaxy.actionScript)" />
-  <language namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
-  <language namespace="f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(com.realaxy.projectAssets)" />
+  <language namespace="2d3d83fe-bb56-4c31-a57c-6d0c98bc04ce(codeOrchestra.actionScript)" />
+  <language namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)" />
+  <language namespace="f8e34e2c-a7e4-43d2-ae57-c99a2499fa39(codeOrchestra.projectAssets)" />
   <language namespace="68b7b8e2-9291-492e-8a01-35739a859ad4(html5.astojs)" />
-  <language-engaged-on-generation namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(com.realaxy.actionScript.logging)" />
+  <language-engaged-on-generation namespace="3a27ae5e-9c30-4977-a146-ffce86d2005c(codeOrchestra.actionScript.logging)" />
   <import index="8hp0" modelUID="r:f504d7a2-d1ce-473b-b525-bb1f98e78e12(joo)" version="-1" />
   <import index="auql" modelUID="r:16e9672c-c358-4079-ad6b-3e44cb51270c(js)" version="-1" />
-  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(com.realaxy.actionScript.util)" version="-1" />
+  <import index="29it" modelUID="r:944a31f8-bb9e-4168-b4ad-9638a126a51d(codeOrchestra.actionScript.util)" version="-1" />
   <import index="ufr" modelUID="r:02b7f784-7f9a-4338-bdb7-dd74898fdddf()" version="-1" />
   <import index="1k6w" modelUID="f:swc_stub#(@swc_stub)" version="-1" />
   <import index="jivu" modelUID="f:swc_stub#flash.display(flash.display@swc_stub)" version="-1" />
@@ -18,7 +18,7 @@
   <import index="o6y6" modelUID="r:43f85b92-8767-4471-aca3-c44d3344b180(org.casalib.collection)" version="-1" />
   <import index="ijiw" modelUID="r:aa886977-d2e2-4641-9dd7-69c524a9d8ab(html5.astojs.util)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(com.realaxy.actionScript.structure)" version="81" implicit="yes" />
+  <import index="3vt2" modelUID="r:49784cba-a384-4286-b969-08d540fbc32f(codeOrchestra.actionScript.structure)" version="81" implicit="yes" />
   <roots>
     <node type="3vt2.ClassConcept" typeId="3vt2.1237644023270" id="5831898788384755959">
       <property name="sourceModule" value="60bc6c0e-415e-4bd4-83af-915e4b78460b" />
